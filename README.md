@@ -25,3 +25,8 @@ To compile and run the text editor, follow these steps:
    make textEd
    ./textEd <file>
 
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## Acknowledgements
+This editor is inspired by kilo by Salvatore Sanfilippo.
