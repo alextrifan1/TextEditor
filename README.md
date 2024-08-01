@@ -13,7 +13,7 @@ This project is a simple text editor implemented in C. It provides basic functio
 ## Demo
 
 <!-- Insert a picture or video showcasing the editor in action -->
-![Editor Demo]()
+![Editor Demo](textEdimg.png)
 
 ## Installation
 
