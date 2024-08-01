@@ -1,1 +1,27 @@
-# TextEditor
+# Text Editor
+
+This project is a simple text editor implemented in C. It provides basic functionalities such as syntax highlighting, file saving, and keyboard navigation.
+
+## Features
+
+- Basic text editing
+- Syntax highlighting for C/C++ code
+- File saving and opening
+- Search functionality
+- Basic keyboard shortcuts for navigation
+
+## Demo
+
+<!-- Insert a picture or video showcasing the editor in action -->
+![Editor Demo]()
+
+## Installation
+
+To compile and run the text editor, follow these steps:
+
+1. Download the repo
+2. Run:
+   ```bash
+   make textEd
+   ./textEd <file>
+
