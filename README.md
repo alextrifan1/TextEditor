@@ -13,6 +13,7 @@ This project is a simple text editor implemented in C. It provides basic functio
 ## Demo
 
 <!-- Insert a picture or video showcasing the editor in action -->
+![](demo1-ezgif.com-video-to-gif-converter.gif)
 ![Editor Demo](textEdimg.png)
 
 ## Installation
@@ -20,10 +21,11 @@ This project is a simple text editor implemented in C. It provides basic functio
 To compile and run the text editor, follow these steps:
 
 1. Download the repo
-2. Run:
-   ```bash
+2. Run
+```bash
    make textEd
    ./textEd <file>
+```
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
